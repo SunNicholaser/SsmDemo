@@ -13,6 +13,7 @@
 <body>
     <a href="">注册</a>
     <a href="">登陆</a>
+    <a href="">test</a>
 
 </body>
 </html>
