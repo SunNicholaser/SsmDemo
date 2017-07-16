@@ -13,6 +13,8 @@
 <body>
     <a href="">注册</a>
     <a href="">登陆</a>
+    <a href="">1111</a>
+    <a href="">2222</a>
 
 </body>
 </html>
